@@ -5,5 +5,5 @@ if (username) {
   console.log(`Welcome, ${username}!`);
 } else {
   // โค้ดส่วนนี้จะถูกดำเนินการแทน เนื่องจาก username เป็นสตริงว่าง เป็นค่า false ในบริบทเชิงตรรกะ
-  console.log("No name provided");
+  console.log("Please provide a username.");
 }
