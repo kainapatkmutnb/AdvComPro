@@ -1,6 +1,6 @@
-const name = "";
+const username = "";
 
-if (name) {
+if (username) {
   console.log("We have a name!");
 } else {
   console.log("No name provided");
